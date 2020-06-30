@@ -1,6 +1,6 @@
 {
   "name": "grafana-mongodb-atlas-datasource",
-  "version": "1.0.4",
+  "version": "1.1.1",
   "description": "Datasource for MongoDB Atlas Logs",
   "private": true,
   "main": "index.js",
