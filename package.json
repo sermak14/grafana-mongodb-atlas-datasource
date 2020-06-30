@@ -1,5 +1,5 @@
 {
-  "name": "grafana-mongodb-atlas-datasource",
+  "name": "mongodb-atlas-datasource",
   "version": "1.1.1",
   "description": "Datasource for MongoDB Atlas Logs",
   "private": true,

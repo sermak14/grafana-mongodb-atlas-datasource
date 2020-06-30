@@ -1,5 +1,5 @@
 {
-  "id": "grafana-mongodb-atlas-datasource",
+  "id": "mongodb-atlas-datasource",
   "name": "MongoDB Atlas Logs",
   "type": "datasource",
   "category": "cloud",
