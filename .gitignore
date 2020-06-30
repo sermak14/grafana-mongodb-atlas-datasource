@@ -19,6 +19,5 @@ docs/changed-files
 .vscode/
 
 # Built plugin
-dist/
 .DS_Store
 vendor
