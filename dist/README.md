@@ -103,15 +103,19 @@ see https://help.github.com/en/articles/creating-releases for more information
   API keys aren't bound to accounts anymore: MongoDB deprecated the Personal API Keys in favor of the Programmatic API Keys.
 
 - **1.0.3** - Support Other Timezones
+  
   https://github.com/valiton/grafana-mongodb-atlas-datasource/commit/8efac61b1d1eb7915373028e2f98986c2c42923a
 
 - **1.0.4** - Fix alerting errors
+  
   https://github.com/valiton/grafana-mongodb-atlas-datasource/pull/15
 
 - **1.1.0** - Fix alerting errors
   https://github.com/valiton/grafana-mongodb-atlas-datasource/commit/8efac61b1d1eb7915373028e2f98986c2c42923a
 
-- **1.1.1** - Documentation & plugin spec fixes
+- **2.0.0** - Renamed package from "grafana-mongodb-atlas-datasource" to "mongodb-atlas-datasource"
+  
+  > Required change because plugins that are not from Grafana itself are not allowed to have the name "grafana" included
 
 # License
 

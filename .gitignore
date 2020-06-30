@@ -21,3 +21,4 @@ docs/changed-files
 # Built plugin
 .DS_Store
 vendor
+grafana-mongodb-atlas-datasource.zip
